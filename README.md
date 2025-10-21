@@ -15,12 +15,11 @@ My expertise spans both Java and Go ecosystems, with deep experience in building
 - Maven / Gradle
 
 ### 🚀 Second Stack (Go)
-- Go (Golang)
-  - [Fiber Framework](https://gofiber.io/)
-  - Concurrency Patterns & Goroutines
-  - [pgx Database Driver](https://github.com/jackc/pgx)
-  - [Testify Testing Toolkit](https://github.com/stretchr/testify)
-  - [Zap Logging](https://github.com/uber-go/zap)
+- [Fiber Framework](https://gofiber.io/)
+- Concurrency Patterns & Goroutines
+- [pgx Database Driver](https://github.com/jackc/pgx)
+- [Testify Testing Toolkit](https://github.com/stretchr/testify)
+- [Zap Logging](https://github.com/uber-go/zap)
 
 ---
 
