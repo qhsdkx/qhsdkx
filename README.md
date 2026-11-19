@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Andrey
 
-Backend Software Developer focused on building scalable, reliable, and maintainable systems.
+Software Developer focused on building scalable, reliable, and maintainable systems.
 
 I enjoy designing clean architectures, solving complex engineering problems, and turning ideas into production-ready software. My primary expertise lies in the Java, Kotlin, and Go ecosystems, where I build high-performance APIs, distributed services, and data-driven applications.
 
